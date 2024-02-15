@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("burgerkingKiosk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dec2392824dfb1f90552d919153ae6c95dd3323a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c3c2050be76a65be4863adf6d47556f63e6176")]
 [assembly: System.Reflection.AssemblyProductAttribute("burgerkingKiosk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("burgerkingKiosk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
